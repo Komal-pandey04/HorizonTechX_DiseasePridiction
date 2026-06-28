@@ -1,4 +1,4 @@
-# 🏥 MediPredict AI v2.0
+# 🏥 MediPredict AI
 
 > Full-stack AI healthcare platform — Heart Disease · Diabetes · Breast Cancer
 
